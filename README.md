@@ -8,10 +8,10 @@
 
 ------
 **adding a new thing be like this**
-### new category
-* it name
-```link
-www.google.com
+// ### new category
+// * it name
+// ```link
+// www.google.com
 ```
 
 ---
