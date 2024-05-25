@@ -8,11 +8,11 @@
 
 ------
 **adding a new thing be like this**
-// ### new category
-// * it name
-// ```link
-// www.google.com
-```
+ ### new category
+ * it name
+ ```link
+ www.google.com
+ ```
 
 ---
 mainly created to reduce the number of repos that i starred O_o
