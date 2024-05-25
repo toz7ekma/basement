@@ -1,5 +1,7 @@
 # basement
-things i might need , now or later 
+---
+
+* things i might need , now or later 
 
 
 ---
