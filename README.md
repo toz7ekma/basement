@@ -7,8 +7,7 @@
 
 
 ------
-
-**adding new a thing be like this**
+**adding a new thing be like this**
 ### new category
 * it name
 ```link
