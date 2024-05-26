@@ -14,7 +14,7 @@
 ------
 basement repo editing note :
 
-**adding a new thing be like this**  &#129147;
+**adding something new be like this**  &#129147;
 
 1. **Firstly** make a category ( if it does not exist )
 
