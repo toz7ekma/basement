@@ -14,11 +14,13 @@
 ------
 basement repo editing note : 
 **adding a new thing be like this**
-1. first
+1. firstly (if it does not exist)
 
  ### new category
- * it name
-2. last
+ 
+ 2. lastly
+
+ * it name and link
  ```link
  www.google.com
  ```
