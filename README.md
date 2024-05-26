@@ -13,7 +13,7 @@
 
 ------
 basement repo editing note : 
-**adding a new thing be like this**
+**adding a new thing be like this**  `&darr`
 1. **Firstly** ( if it does not exist )
 
  ### new category
