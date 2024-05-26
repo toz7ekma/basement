@@ -13,12 +13,14 @@
 
 ------
 basement repo editing note :
+
 **adding a new thing be like this**  &#129147;
-1. **Firstly** ( if it does not exist )
+
+1. **Firstly** make a category ( if it does not exist )
 
  ### new category
  
- 2. **Lastly**
+ 2. **Lastly** add the tool
 
  * it name and link
  ```link
