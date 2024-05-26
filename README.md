@@ -12,10 +12,13 @@
 
 
 ------
-basement repo edit note : 
+basement repo editing note : 
 **adding a new thing be like this**
+1. first
+
  ### new category
  * it name
+2. last
  ```link
  www.google.com
  ```
