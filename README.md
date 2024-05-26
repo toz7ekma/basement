@@ -12,8 +12,8 @@
 
 
 ------
-basement repo editing note : 
-**adding a new thing be like this**  `&#8595;`
+basement repo editing note :
+**adding a new thing be like this**  &#8595;
 1. **Firstly** ( if it does not exist )
 
  ### new category
