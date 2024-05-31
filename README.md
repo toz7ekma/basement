@@ -6,6 +6,10 @@
 ------
 
 ------
+### android exploit
+```link
+https://github.com/capntrips/KernelFlasher
+```
 ### it tools
 ```link
 https://github.com/CorentinTh/it-tools
